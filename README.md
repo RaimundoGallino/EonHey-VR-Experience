@@ -6,9 +6,13 @@
 
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sJ4Azj-qR18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <img src="ReadmeFiles/MAGO-model.png">
-  <img src="ReadmeFiles/Three-Models.png">
-  <img src="ReadmeFiles/VR-Hands.png">
-  
 </div>
+  
+  
+<div align="center">
+  <img width="50%" height="50%" src="ReadmeFiles/MAGO-model.png">
+  <img width="50%" height="50%" src="ReadmeFiles/Three-Models.png">
+  <img width="50%" height="50%" src="ReadmeFiles/VR-Hands.png">
+ </div>
+  
+
